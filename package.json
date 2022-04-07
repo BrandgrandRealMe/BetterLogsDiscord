@@ -10,7 +10,7 @@
     "url": "https://github.com/BrandgrandRealMe/BetterLogsDiscord/issues"
   },
   "main": "src/index.js",
-  "devDependencies": {
+  "Dependencies": {
     "colors": "^1.4.0",
     "discord-webhook-node": "^1.1.8"
   }
