@@ -3,6 +3,7 @@
   "description": "Get styled logs in terminal and in a discord channel with webhooks!",
   "version": "1.0.0",
   "license": "MIT",
+  "keywords": ["Color", "terminal", "Discord", "logs"],
   "repository": "https://github.com/BrandgrandRealMe/BetterLogsDiscord.git",
   "homepage": "https://github.com/BrandgrandRealMe/BetterLogsDiscord",
   "bugs": {
