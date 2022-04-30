@@ -31,3 +31,10 @@ Get styled logs in terminal and in a discord channel with webhooks!
 "LOGURL": "WEBHOOKURL" 
 ```
 
+## Planned Updates
+- [ ] Make it where you can use it without webhook.
+- [ ] Add more styles.
+- [ ] Make `log()` a defualt style
+- [ ] Add delight to the experience when all are complete :tada:
+
+
